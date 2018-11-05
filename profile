@@ -1,1 +1,1 @@
-web: gunicorn test-first-heroku:app --log-file -
+web: gunicorn first-test-heroku-ksd:app --log-file -
